@@ -27,6 +27,7 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
     "idb": "^7.1.0",
-    "regenerator-runtime": "^0.13.9"
+    "regenerator-runtime": "^0.13.9",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
